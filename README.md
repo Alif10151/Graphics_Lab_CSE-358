@@ -1,7 +1,11 @@
 Course : Computer Graphics And Multimedia Lab
+
 Name: Abdullah - Al - Alif
+
 Id: 0432310005101051
+
 Computer Graphics and Multimedia - Modern OpenGL
+
 This repository contains my work on Modern OpenGL 3.3 based on the problems and exercises from learnopengl.com. The projects and lab works are based on the CSE 358 lab course (Sessional Based on Computer Graphics and Multimedia). All credit for the course content goes to the honorable ma'am AudityGhosh, Lecturer, UITS and learnopengl.com.
 
 Project Overview
