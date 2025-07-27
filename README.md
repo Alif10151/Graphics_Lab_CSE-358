@@ -8,31 +8,7 @@ Computer Graphics and Multimedia - Modern OpenGL
 
 This repository contains my work on Modern OpenGL 3.3 based on the problems and exercises from learnopengl.com. The projects and lab works are based on the CSE 358 lab course (Sessional Based on Computer Graphics and Multimedia). All credit for the course content goes to the honorable ma'am AudityGhosh, Lecturer, UITS and learnopengl.com.
 
-Project Overview
-
-The repository covers a variety of topics, including:
-
-
-Basic Window Creation
-
-Basic Triangle Creation
-
-VAO, VBO, EBO
-
-Shaders
-
-Textures
-
-Transformations
-
-Interpolation
-
-Coordinate Systems
-
-3D Objects Rendering
-
-Each problem folder contains the source code and relevant shader files, along with explanations or instructions on how to run them.
-
+Projects and other necessary files will be uploaded throught the semester. After accomplishing the semester, proeject topics and overviews will be here.
 
 Folder Structure
 
@@ -40,12 +16,19 @@ The folder structure is organized as follows:
 
 
 Computer_Graphics_and_Multimedia_Modern_OpenGL/
+
 ├── README.md
+
 ├── Problem/
+
 │   ├── shader.fs
+
 │   ├── shader.vs
+
 │   ├── glad.c
+
 │   ├── main.cpp
+
 
 
 File Descriptions
@@ -71,4 +54,6 @@ Feel free to fork the repository and contribute by adding improvements, fixes, o
 
 
 Note: This repository is for educational purposes and includes all the lab works and exercises as part of the CSE-358 lab course.
+
+Happy Learning!
 
